@@ -11,3 +11,7 @@
 **Find the Square Root of a Number**
 
 ![image](https://user-images.githubusercontent.com/88196747/130652904-ea0cf7f2-df71-4fc0-856e-2e3e08bb06e3.png)
+
+**To display the first and last colors from the list**
+
+![image](https://user-images.githubusercontent.com/88196747/130794383-9e14becf-4f48-421b-ae90-7d2a58fce024.png)

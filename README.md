@@ -15,3 +15,7 @@
 **To display the first and last colors from the list**
 
 ![image](https://user-images.githubusercontent.com/88196747/130794383-9e14becf-4f48-421b-ae90-7d2a58fce024.png)
+
+**To display the current date and time**
+
+![image](https://user-images.githubusercontent.com/88196747/131056391-b541601e-3e98-484c-84af-3c9b8fc32c78.png)

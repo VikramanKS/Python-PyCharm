@@ -19,3 +19,10 @@
 **To display the current date and time**
 
 ![image](https://user-images.githubusercontent.com/88196747/131056391-b541601e-3e98-484c-84af-3c9b8fc32c78.png)
+
+**To find the entered number is even or odd**
+
+
+![image](https://user-images.githubusercontent.com/88196747/131219025-31ef4eeb-66eb-4a39-b56b-7d443ca93eca.png)
+
+

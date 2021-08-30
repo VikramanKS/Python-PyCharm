@@ -24,6 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131219025-31ef4eeb-66eb-4a39-b56b-7d443ca93eca.png)
 
-Getting the input from the user and rounding off the number to 1 decimal point
+**Getting the input from the user and rounding off the number to 1 decimal point**
 
 ![image](https://user-images.githubusercontent.com/88196747/131252705-25034733-25d1-4411-b49b-e4249e1ad7f5.png)
+
+**Finding the cube root of the entered number**
+
+![image](https://user-images.githubusercontent.com/88196747/131338350-7b4b8df8-6f71-459d-8cdb-e628c51955d2.png)

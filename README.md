@@ -31,3 +31,7 @@
 **Finding the cube root of the entered number**
 
 ![image](https://user-images.githubusercontent.com/88196747/131338350-7b4b8df8-6f71-459d-8cdb-e628c51955d2.png)
+
+**To convert  Celius into Fahrenheit.**
+
+![image](https://user-images.githubusercontent.com/88196747/131518094-f5132663-3225-4759-b80a-598f0ad09ae5.png)

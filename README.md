@@ -35,3 +35,8 @@
 **To convert  Celius into Fahrenheit.**
 
 ![image](https://user-images.githubusercontent.com/88196747/131518094-f5132663-3225-4759-b80a-598f0ad09ae5.png)
+
+**To find the area of the rea of an equilateral triangle.**
+
+
+![image](https://user-images.githubusercontent.com/88196747/131676774-3e8d14b7-db74-4af4-8743-5c10d03ce095.png)

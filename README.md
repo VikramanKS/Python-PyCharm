@@ -40,3 +40,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/88196747/131676774-3e8d14b7-db74-4af4-8743-5c10d03ce095.png)
+
+**Find the Nth term of the series**
+
+![image](https://user-images.githubusercontent.com/88196747/131839311-b7165426-75ee-4755-99e9-f78f363a3469.png)
+

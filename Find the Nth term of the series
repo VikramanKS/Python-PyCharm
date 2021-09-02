@@ -1,0 +1,6 @@
+a = int(input())
+x = a*a
+if a>=0:
+    print(x)
+else:
+    print("Error")

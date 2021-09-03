@@ -1,0 +1,4 @@
+r = float(input())
+pi = float(3.1415)
+cir = (2*pi*r)
+print(round(cir,2))

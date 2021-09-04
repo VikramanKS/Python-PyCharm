@@ -1,7 +1,5 @@
 num = int(input( ))
-
 n = 1
-
 while n <= num :
     if(n % 2 == 0):
         print("{0}".format(n))

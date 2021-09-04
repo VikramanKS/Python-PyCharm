@@ -48,3 +48,7 @@
 **Find the length of its circumference of the Circle**
 
 ![image](https://user-images.githubusercontent.com/88196747/131956762-554be061-deec-427f-a839-0d94ff01d992.png)
+
+**Write a code to get an integer N and print the even values from 1 till N in a separate line.**
+
+![image](https://user-images.githubusercontent.com/88196747/132095032-902eac3c-c65c-4014-91c3-ebba33b3581c.png)

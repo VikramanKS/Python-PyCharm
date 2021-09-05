@@ -52,3 +52,7 @@
 **Write a code to get an integer N and print the even values from 1 till N in a separate line.**
 
 ![image](https://user-images.githubusercontent.com/88196747/132095032-902eac3c-c65c-4014-91c3-ebba33b3581c.png)
+
+**Removing all the whitespaces and then printing the length of the remaining string.**
+
+![image](https://user-images.githubusercontent.com/88196747/132127518-33006bec-6cf4-4ca7-b110-656917b32608.png)

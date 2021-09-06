@@ -56,3 +56,8 @@
 **Removing all the whitespaces and then printing the length of the remaining string.**
 
 ![image](https://user-images.githubusercontent.com/88196747/132127518-33006bec-6cf4-4ca7-b110-656917b32608.png)
+
+**To check whether the entered year is a leap year or not.**
+
+![image](https://user-images.githubusercontent.com/88196747/132224573-0bed3ee3-9f32-491c-84d4-64d2a756baa1.png)
+

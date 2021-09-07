@@ -61,3 +61,8 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132224573-0bed3ee3-9f32-491c-84d4-64d2a756baa1.png)
 
+**Print the number of days in the month corresponding to that input number.**
+
+![image](https://user-images.githubusercontent.com/88196747/132329191-70a4e67a-3fa2-45d1-9132-bcb83698a170.png)
+
+

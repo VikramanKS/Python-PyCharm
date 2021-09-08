@@ -65,4 +65,9 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132329191-70a4e67a-3fa2-45d1-9132-bcb83698a170.png)
 
+**Find the small number from the two input number with single input**
+
+![image](https://user-images.githubusercontent.com/88196747/132509148-bcf392f8-f119-43fd-84f4-580429f5e6d5.png)
+
+
 

@@ -69,5 +69,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132509148-bcf392f8-f119-43fd-84f4-580429f5e6d5.png)
 
+**Find the Nth term of the series:**
+
+![image](https://user-images.githubusercontent.com/88196747/132663986-abd55090-23a9-4137-9f87-851f348b26a8.png)
+
+
 
 

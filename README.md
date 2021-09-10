@@ -73,6 +73,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132663986-abd55090-23a9-4137-9f87-851f348b26a8.png)
 
+**To print values from 1 till N number in separate line**
+
+![image](https://user-images.githubusercontent.com/88196747/132857242-8a3d8851-7f20-4ae2-ba99-9efd8ba08eb1.png)
+
 
 
 

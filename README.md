@@ -77,6 +77,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132857242-8a3d8851-7f20-4ae2-ba99-9efd8ba08eb1.png)
 
+**Simple Interest using the formula  S.I. = P*T*R/100**
+
+![image](https://user-images.githubusercontent.com/88196747/132946345-067bcbfe-ff9e-442f-b47c-f63b52bd7fc6.png)
+
+
 
 
 

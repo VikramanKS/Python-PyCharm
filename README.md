@@ -81,6 +81,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132946345-067bcbfe-ff9e-442f-b47c-f63b52bd7fc6.png)
 
+**Finding the area of the triangle**
+
+![image](https://user-images.githubusercontent.com/88196747/132986647-b44ee930-dde5-4b48-a8fa-6c142698bf5e.png)
+
 
 
 

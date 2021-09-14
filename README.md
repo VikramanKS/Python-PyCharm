@@ -89,6 +89,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/133080126-83bee775-ed14-4c20-aacb-9babaf612e31.png)
 
+**Two get the difference between the two numbers and finding the positive number**
+
+![image](https://user-images.githubusercontent.com/88196747/133251524-40f6edc6-554e-433a-b2e4-94a3bfdcc8a9.png)
+
 
 
 

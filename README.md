@@ -93,6 +93,9 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/133251524-40f6edc6-554e-433a-b2e4-94a3bfdcc8a9.png)
 
+**Checking whether the entered Year is Leap Year**
+
+![image](https://user-images.githubusercontent.com/88196747/133474527-52395319-be6a-4b67-9a07-166c65cfd4d0.png)
 
 
 

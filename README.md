@@ -97,6 +97,13 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/133474527-52395319-be6a-4b67-9a07-166c65cfd4d0.png)
 
+**Generating a bank balance SMS and storing it in txt file**
+**Input**
+![image](https://user-images.githubusercontent.com/88196747/133928253-8edea9b2-671e-45ef-895d-a1f77bc25537.png)
+**txt-file**
+![image](https://user-images.githubusercontent.com/88196747/133928343-ab3633da-3100-41d9-9de5-8652d85abd2f.png)
+
+
 
 
 

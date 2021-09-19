@@ -7,7 +7,7 @@ def trans1():
   
   File Handling part
   #Creating text file in name of sms-bank
-  f = open('sms-bank','x')
+  f = open('sms-bank.txt','x')
   #Calling the fucntion in the file
   f.write(str(trans1()))
   #Closing the file

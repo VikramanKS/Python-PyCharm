@@ -1,6 +1,0 @@
-x, y, z = input().split()
-amt=float(x)
-ints=float(y)
-time=float(z)
-s = float((amt*ints*time)/100)
-print(round(s,2))

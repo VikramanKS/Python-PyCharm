@@ -2,8 +2,9 @@
 
 ***Hello folks!***
 
-***In this repo you can find solutions for basic to intermediate python problems.
-Happy Coding!!!***
+***In this repo you can find solutions for basic python problems.
+\nStart your coding with print("Hello")
+\nHappy Coding!!!***
 
 [**Starting with Basic Printing Hello World**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Starting%20with%20Basic%20Printing%20Hello%20World)
 

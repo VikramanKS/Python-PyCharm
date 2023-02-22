@@ -37,77 +37,50 @@ Happy Coding!!!***
 
 ![image](https://user-images.githubusercontent.com/88196747/131338350-7b4b8df8-6f71-459d-8cdb-e628c51955d2.png)
 
-**To convert  Celius into Fahrenheit.**
+[**To convert  Celius into Fahrenheit.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20convert%20%20Celius%20into%20Fahrenheit.) 
 
 ![image](https://user-images.githubusercontent.com/88196747/131518094-f5132663-3225-4759-b80a-598f0ad09ae5.png)
 
-**To find the area of the rea of an equilateral triangle.**
+[**To find the area of triangle.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Finding%20the%20area%20of%20the%20triangle)
 
 
 ![image](https://user-images.githubusercontent.com/88196747/131676774-3e8d14b7-db74-4af4-8743-5c10d03ce095.png)
 
-**Find the Nth term of the series**
+[**Find the Nth term of the series**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Find%20the%20Nth%20term%20of%20the%20series:)
 
 ![image](https://user-images.githubusercontent.com/88196747/131839311-b7165426-75ee-4755-99e9-f78f363a3469.png)
 
-**Find the length of its circumference of the Circle**
+[**Find the length of its circumference of the Circle**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Find%20the%20length%20of%20its%20circumference%20of%20the%20Circle)
 
 ![image](https://user-images.githubusercontent.com/88196747/131956762-554be061-deec-427f-a839-0d94ff01d992.png)
 
-**Write a code to get an integer N and print the even values from 1 till N in a separate line.**
+[**Write a code to get an integer N and print the even values from 1 till N in a separate line.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20print%20values%20from%201%20till%20N%20%20number%20in%20separate%20line)
 
 ![image](https://user-images.githubusercontent.com/88196747/132095032-902eac3c-c65c-4014-91c3-ebba33b3581c.png)
 
-**Removing all the whitespaces and then printing the length of the remaining string.**
+[**Removing all the whitespaces and then printing the length of the remaining string.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Removing%20all%20the%20whitespaces%20and%20then%20printing%20the%20length%20of%20the%20remaining%20string)
 
 ![image](https://user-images.githubusercontent.com/88196747/132127518-33006bec-6cf4-4ca7-b110-656917b32608.png)
 
-**To check whether the entered year is a leap year or not.**
+[**To check whether the entered year is a leap year or not.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20check%20whether%20the%20entered%20year%20is%20a%20leap%20year%20or%20not)
 
 ![image](https://user-images.githubusercontent.com/88196747/132224573-0bed3ee3-9f32-491c-84d4-64d2a756baa1.png)
 
-**Print the number of days in the month corresponding to that input number.**
+[**Print the number of days in the month corresponding to that input number.**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Print%20the%20number%20of%20days%20in%20the%20month%20corresponding%20to%20that%20input%20number.)
 
 ![image](https://user-images.githubusercontent.com/88196747/132329191-70a4e67a-3fa2-45d1-9132-bcb83698a170.png)
 
-**Find the small number from the two input number with single input**
+[**Find the small number from the two input number with single input**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Find%20the%20small%20number%20from%20the%20two%20input%20number%20with%20single%20input)
 
 ![image](https://user-images.githubusercontent.com/88196747/132509148-bcf392f8-f119-43fd-84f4-580429f5e6d5.png)
 
-**Find the Nth term of the series:**
-
-![image](https://user-images.githubusercontent.com/88196747/132663986-abd55090-23a9-4137-9f87-851f348b26a8.png)
-
-**To print values from 1 till N number in separate line**
-
-![image](https://user-images.githubusercontent.com/88196747/132857242-8a3d8851-7f20-4ae2-ba99-9efd8ba08eb1.png)
-
-**Simple Interest using the formula  S.I. = P*T*R/100**
+[**Simple Interest using the formula  S.I. = P*T*R/100**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Calculating%20Simple%20Interest)
 
 ![image](https://user-images.githubusercontent.com/88196747/132946345-067bcbfe-ff9e-442f-b47c-f63b52bd7fc6.png)
 
-**Finding the area of the triangle**
+[**Finding the area of the triangle**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Finding%20the%20area%20of%20the%20triangle)
 
 ![image](https://user-images.githubusercontent.com/88196747/132986647-b44ee930-dde5-4b48-a8fa-6c142698bf5e.png)
-
-**Checking whether the SUM of two numbers is even or odd**
-
-![image](https://user-images.githubusercontent.com/88196747/133080126-83bee775-ed14-4c20-aacb-9babaf612e31.png)
-
-**Two get the difference between the two numbers and finding the positive number**
-
-![image](https://user-images.githubusercontent.com/88196747/133251524-40f6edc6-554e-433a-b2e4-94a3bfdcc8a9.png)
-
-**Checking whether the entered Year is Leap Year**
-
-![image](https://user-images.githubusercontent.com/88196747/133474527-52395319-be6a-4b67-9a07-166c65cfd4d0.png)
-
-**Generating a bank balance SMS and storing it in txt file**
-**Input**
-![image](https://user-images.githubusercontent.com/88196747/133928253-8edea9b2-671e-45ef-895d-a1f77bc25537.png)
-**txt-file**
-![image](https://user-images.githubusercontent.com/88196747/133928343-ab3633da-3100-41d9-9de5-8652d85abd2f.png)
-
 
 
 

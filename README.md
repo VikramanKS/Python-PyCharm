@@ -9,31 +9,31 @@ Happy Coding!!!***
 
 ![image](https://user-images.githubusercontent.com/88196747/130356335-f583edf9-2654-4e23-90e6-04f51c852a30.png)
 
-**Add Two Numbers With User Input**
+[**Add Two Numbers With User Input**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Add%20Two%20Numbers%20With%20User%20Input)
 
 ![image](https://user-images.githubusercontent.com/88196747/130484230-794414b1-600b-40bd-99ab-bef87b9529e8.png)
 
-**Find the Square Root of a Number**
+[**Find the Square Root of a Number**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Find%20the%20Square%20Root%20of%20a%20number)
 
 ![image](https://user-images.githubusercontent.com/88196747/130652904-ea0cf7f2-df71-4fc0-856e-2e3e08bb06e3.png)
 
-**To display the first and last colors from the list**
+[**To display the first and last colors from the list**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20display%20the%20first%20and%20last%20colors%20of%20a%20list)
 
 ![image](https://user-images.githubusercontent.com/88196747/130794383-9e14becf-4f48-421b-ae90-7d2a58fce024.png)
 
-**To display the current date and time**
+[**To display the current date and time**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20display%20the%20current%20date%20and%20time)
 
 ![image](https://user-images.githubusercontent.com/88196747/131056391-b541601e-3e98-484c-84af-3c9b8fc32c78.png)
 
-**To find the entered number is even or odd**
+[**To find the entered number is even or odd**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/To%20find%20the%20entered%20number%20is%20even%20or%20odd)
 
 ![image](https://user-images.githubusercontent.com/88196747/131219025-31ef4eeb-66eb-4a39-b56b-7d443ca93eca.png)
 
-**Getting the input from the user and rounding off the number to 1 decimal point**
+[**Getting the input from the user and rounding off the number to 1 decimal point**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Getting%20the%20input%20from%20the%20user%20and%20rounding%20off%20the%20number%20to%201%20decimal%20point)
 
 ![image](https://user-images.githubusercontent.com/88196747/131252705-25034733-25d1-4411-b49b-e4249e1ad7f5.png)
 
-**Finding the cube root of the entered number**
+[**Finding the cube root of the entered number**](https://github.com/vikramanks/Python_Basic_Problems/blob/main/Finding%20the%20cube%20root%20of%20the%20entered%20number)
 
 ![image](https://user-images.githubusercontent.com/88196747/131338350-7b4b8df8-6f71-459d-8cdb-e628c51955d2.png)
 

@@ -1,7 +1,0 @@
-#Find the nth term of the series:- 2 4 6 8 10
-a = int(input())
-x = a*a
-if a>=0:
-    print(x)
-else:
-    print("Error")
